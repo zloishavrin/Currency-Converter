@@ -15,5 +15,5 @@ The <i> switchInput() </i> and <i> switchOutput() </i> functions are responsible
 Read more about the API of the Central Bank of the Russian Federation <a href='https://www.cbr-xml-daily.ru/'> <i> here </i> </a>.
 
 <h2 align='center'> Preview </h2>
-<img src='https://i.ibb.co/qx5BTNK/Uo-L1-JKIxk-SQ.jpg' align='center'>
+
 Preview of the converter can be seen <a href='https://zloishavrin.github.io/Currency-Converter/converter.html'> <i> here </i> </a>.
